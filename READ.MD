@@ -24,8 +24,7 @@ NAT gateway
 7. create eip
 8. create nat
 9. add nat gateway route in private and database subnets
-10. peering connection
-11. routes
+10. routes
 
 common tags
 Project = roboshop
